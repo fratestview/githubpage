@@ -370,12 +370,12 @@ ecco a voi
 
 <p>Click the button view details.</p>
 
-<button onclick="myFunction()">Click here to subscribe</button>
+<button onclick="myFunction2()">Click here for Details</button>
 
 <p id="Details"></p>
 
 <script>
-function myFunction() {
+function myFunction2() {
   var x = document.URL;
   document.getElementById("Details").innerHTML = x;
 }
