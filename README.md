@@ -28,7 +28,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Francesca </p>
 <p> This is my page </p>
 
+<p>Click the button to subscribe.</p>
 
+<button onclick="myFunction()">Click here to subscribe</button>
+
+<p id="Subscribe"></p>
+
+<script>
+function myFunction() {
+  var x = document.URL;
+  document.getElementById("Subscribe").innerHTML = x;
+}
+</script>
 
 
 ciao sono maria giuseppina, mi chiamavano anastasia, ma ho cambiato nome perchè anastasia non mi si addiceva come nome 
@@ -67,16 +78,6 @@ vfrifvoilj
 fvifevrvre
 aenfav
 
-<button onclick="myFunction()">Click here to subscribe</button>
-
-<p id="Subscribe"></p>
-
-<script>
-function myFunction() {
-  var x = document.URL;
-  document.getElementById("Subscribe").innerHTML = x;
-}
-</script>
 
 àdfanabnodea
 eaopre
