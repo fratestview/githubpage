@@ -372,14 +372,15 @@ ecco a voi
 
 <button onclick="myFunction2()">Click here for Details</button>
 
-<p id="Details"></p>
+<p id="details"></p>
 
 <script>
 function myFunction2() {
   var x = document.URL;
-  document.getElementById("Details").innerHTML = x;
+  document.getElementById("details").innerHTML = x;
 }
 </script>
+
 
 
 ecco a voi 
