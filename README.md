@@ -43,7 +43,7 @@ function myFunction() {
 
 
 ciao sono maria giuseppina, mi chiamavano anastasia, ma ho cambiato nome perchè anastasia non mi si addiceva come nome 
-
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
 fjkn
 BAREF
 VFAVS
@@ -87,7 +87,6 @@ vfvkpfkvkpef
 afvfpmrfd
 relvrervm
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg">
 
 
 rfrnvfnvfreerpvs
