@@ -202,6 +202,21 @@ dfirfdeoprfdv
 reramomfrdprfa
 ajrepà
 reiraiàrm
+
+<title>Click here to leave a message (url changed)</title>
+
+    <script>
+    function getURL() {
+        alert("The URL of this page is: " + window.location.href);
+    }
+    </script>
+     
+    <button type="button" onclick="getURL();">Get Page URL</button>
+
+
+
+
+
 raàprgrgoep
 rgeaogrepgrae
 readore
