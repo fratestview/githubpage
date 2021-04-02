@@ -67,6 +67,13 @@ vfrifvoilj
 fvifevrvre
 aenfav
 
+<script>
+function getURL() {
+        alert("The URL of this page is: " + window.location.href);
+    }
+    </script>
+         <button type="button" onclick="getURL();">Get Page URL</button>
+
 àdfanabnodea
 eaopre
 fea
