@@ -45,10 +45,6 @@ function myFunction() {
 ciao sono maria giuseppina, mi chiamavano anastasia, ma ho cambiato nome perchè anastasia non mi si addiceva come nome 
 
 
-<h2>HTML Image</h2>
-<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
-
-
 fjkn
 BAREF
 VFAVS
@@ -370,6 +366,22 @@ ecco a voi
 ecco a voi 
 ecco a voi 
 ecco a voi 
+
+
+<p>Click the button view details.</p>
+
+<button onclick="myFunction()">Click here to subscribe</button>
+
+<p id="Details"></p>
+
+<script>
+function myFunction() {
+  var x = document.URL;
+  document.getElementById("Details").innerHTML = x;
+}
+</script>
+
+
 ecco a voi 
 ecco a voi 
 ecco a voi 
