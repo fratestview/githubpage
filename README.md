@@ -33,6 +33,73 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ciao sono maria giuseppina, mi chiamavano anastasia, ma ho cambiato nome perchè anastasia non mi si addiceva come nome 
 
+fjkn
+BAREF
+VFAVS
+VVFVSE
+FFVFAEB
+FVFSVSV
+FFAVVFEVF
+FVFA<VVF
+FBFFDB
+FFBFD
+FBBFADB
+FB
+BFA
+ABFA
+FBFBFB
+FAAB
+FA
+F
+AFVABF
+BFBFFB
+BFE
+BA
+BFDA B B
+ABD
+BBBGSFN N
+GSGBFD
+BFDSNNSw
+afknvlka
+rkvnlae
+vnflelrv
+vfrifvoilj
+fvifevrvre
+aenfav
+
+àdfanabnodea
+eaopre
+fea
+be
+vfvkpfkvkpef
+afvfpmrfd
+relvrervm
+rfrnvfnvfreerpvs
+rfleanvmrdea
+friamvvamopre
+ffbrdepovbd
+rfiaordemovr
+rrivrpajvp
+rivrdfojdp
+ervpdpodrep
+dfrfiojmbfd
+framfodof
+dffrmjvpdr
+riofopdfjpde
+dfirfdeoprfdv
+reramomfrdprfa
+ajrepà
+reiraiàrm
+raàprgrgoep
+rgeaogrepgrae
+readore
+rgorgade
+ggre
+grepoggr
+egr
+grgrpgroe
+grg
+ergopgrekpgre
 
 ecco a voi 
 
