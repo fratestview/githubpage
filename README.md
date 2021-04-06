@@ -380,7 +380,11 @@ function myFunction2() {
 }
 </script>
 
-
+<h1>Company</h1>
+      <p>
+         We’re a <a href="/about/about_team.htm">team </a> of professionals working
+         hard to provide free learning content.
+      </p>
 
 ecco a voi 
 ecco a voi 
