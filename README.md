@@ -43,6 +43,12 @@ function myFunction() {
 
 ciao sono maria giuseppina, mi chiamavano anastasia, ma ho cambiato nome perchè anastasia non mi si addiceva come nome. è vero che chi è bello, è bell a mamma soja, ma chi è chiu bell di me c trucca
 
+<script> 
+    var dataLayer= window.dataLayer || []; 
+    dataLayer.push({
+    'event' : 'subscribe'
+    });
+</script>
 
 
 fjkn
