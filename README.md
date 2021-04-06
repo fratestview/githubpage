@@ -46,7 +46,6 @@ ciao sono maria giuseppina, mi chiamavano anastasia, ma ho cambiato nome perchè
 <script> 
     var dataLayer= window.dataLayer || []; 
     dataLayer.push({
-    'event': 'date'
     'submit' : 'click here to subscribe'
     });
 </script>
