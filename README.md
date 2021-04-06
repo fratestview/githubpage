@@ -1,6 +1,5 @@
 # githubpage
 
-<!DOCTYPE html>
 <html>
 
 My first pages repository 
