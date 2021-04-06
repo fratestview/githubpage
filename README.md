@@ -387,13 +387,14 @@ function myFunction2() {
       <p>
          We’re a <a href="/about/subscribe_clickhere.htm">click here to subcribe </a> of professionals working
          hard to provide free learning content.
+        </p>
   
 <script>
    dataLayer.push({
     'submit' : 'click here to subscribe'
     });
  </script>
-      </p>
+    
 
 ecco a voi 
 ecco a voi 
