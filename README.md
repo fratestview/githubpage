@@ -369,11 +369,16 @@ ecco a voi
 ecco a voi 
 
 
-<p>Click the button view details.</p>
 
-<button onclick="myFunction2()">Click here for Details</button>
+<h2>View Date</h2>
 
-<p id="details"></p>
+<button type="button"
+onclick="document.getElementById('button_date').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="button_date"></p>
+
+
 
 <script>
 function myFunction2() {
