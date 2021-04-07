@@ -379,14 +379,6 @@ Click me to display Date and Time.</button>
 <p id="button_date"></p>
 
 
-
-<script>
-function myFunction2() {
-  var x = document.URL;
-  document.getElementById("details").innerHTML = x;
-}
-</script>
-
 <h1>Form Subscribe </h1>
 
       <p>
