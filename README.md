@@ -388,7 +388,7 @@ Click me to display Date and Time.</button>
 <script>
    dataLayer.push({
     'event' : 'submit page'
-    'submit' : 'click here to subscribe'
+    'submit' : 'click here to submit'
     });
  </script>
     
