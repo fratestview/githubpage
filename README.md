@@ -6,7 +6,14 @@ My first pages repository
 <h1> hello world </h1>
 
 <head>
-
+<script>
+ var francesca = {}; 
+  
+    francesca.event = 'submit page'; 
+    francesca.submit = 'click here to submit';
+    francesca.title  = 'hello world';
+    
+ </script>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -385,14 +392,7 @@ Click me to display Date and Time.</button>
          hard to provide free learning content.
         </p>
   
-<script>
- var dataLayers = window.dataLayer || {};
-   dataLayers.push({
-    'event' : 'submit page'
-    'submit' : 'click here to submit'
-    'title ' : 'hello world'
-    });
- </script>
+
     
 
 ecco a voi 
