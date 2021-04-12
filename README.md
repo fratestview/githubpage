@@ -9,9 +9,9 @@ My first pages repository
 <script>
  var francesca = {}; 
   
-    francesca.event = 'submit page'; 
-    francesca.submit = 'click here to submit';
-    francesca.title  = 'hello world';
+    francesca.pagename = 'submit page'; 
+    francesca.buttonClick = 'click here to submit';
+    francesca.username  = 'hello world';
     
  </script>
 <!-- Google Tag Manager -->
