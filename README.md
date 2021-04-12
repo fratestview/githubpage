@@ -386,8 +386,8 @@ Click me to display Date and Time.</button>
         </p>
   
 <script>
- var dataLayer = window.dataLayer || [];
-   dataLayer.push({
+ var dataLayers = window.dataLayer || {};
+   dataLayers.push({
     'event' : 'submit page'
     'submit' : 'click here to submit'
     'title ' : 'hello world'
