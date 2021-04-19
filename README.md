@@ -12,7 +12,7 @@ My first pages repository
     francesca.pagename = 'submit page'; 
     francesca.buttonClick = 'click here to submit';
     francesca.username  = 'hello world';
-    
+ dataLayer.push({'event': 'button1-click'});
  </script>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
