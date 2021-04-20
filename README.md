@@ -15,9 +15,7 @@ My first pages repository
 
 <script> 
 dataLayer.push({
-      'event': 'button click',
-      'pagename' : 'GitHub Page | My first Page Repository',
-      'title': 'hello world'
+      'event': 'button click'   
 }); 
 </script>
  
