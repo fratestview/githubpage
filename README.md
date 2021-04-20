@@ -7,8 +7,13 @@ My first pages repository
 
 <head>
 
+
+<script>
+  dataLayer = [];
+</script>
+
+
 <script> 
-var dataLayer = window.dataLayer || []; 
 dataLayer.push({
       'event': 'button click',
       'pagename' : 'GitHub Page | My first Page Repository',
