@@ -6,22 +6,15 @@ My first pages repository
 <h1> hello world </h1>
 
 <head>
- 
- <script>
-  dataLayer = [];
-</script>
 
-  <script>
- dataLayer.push({'event': 'button1-click'});
- 
- 
-<script>
- var francesca = {}; 
-  
-    francesca.pagename = 'submit page'; 
-    francesca.buttonClick = 'click here to submit';
-    francesca.username  = 'hello world';
- 
+<script> 
+var dataLayer = window.dataLayer || []; 
+dataLayer.push({
+      'event': 'button click',
+      'pagename' : 'GitHub Page | My first Page Repository',
+      'title': 'hello world'
+}); 
+</script>
  
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
