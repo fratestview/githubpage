@@ -15,8 +15,7 @@ My first pages repository
 
 <script> 
 dataLayer.push({
-      'event' : 'button_click',
-      'click': 'abc'   
+      'button': 'abc'        
 }); 
 </script>
  
